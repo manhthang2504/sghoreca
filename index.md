@@ -1,13 +1,11 @@
-## Welcome to GitHub Pages
+## Chào mừng đến với SG Horeca
 
 You can use the [editor on GitHub](https://github.com/manhthang2504/sghoreca/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Chúng tôi là nhà cung cấp giải pháp bếp nhà hàng khách sạn.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Nhân viên kỹ thuật chuyên môn cao
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Chúng tôi có đội ngũ kỹ thuật với trình độ chuyên môn cao
 ```markdown
 Syntax highlighted code block
 
